@@ -1,0 +1,1 @@
+This is a hands-on lab file for basic git tutorial.
