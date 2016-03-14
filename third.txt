@@ -1,0 +1,10 @@
+This is the third.txt file.
+
+Suppose that one member of the team added, commited, and pushed it to his/her branch. After that, he/she merged his/her current branch to the master branch.
+
+Now, you pulled the files from the repo (master branch) to get the latest edits. The team inspected the new third.txt file and agreed that it should be deleted. To delete this here are the steps:
+1.) Create a temporary branch
+2.) Remove the third.txt file
+3.) Merge with the master branch
+
+Let's Try!
